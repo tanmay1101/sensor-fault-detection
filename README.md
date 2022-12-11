@@ -14,3 +14,5 @@
   components- We will write ML related components here.
   7. Cloud_storage- to upload and download files from S3 or other cloud storage.
 5. logger.py/acception.py- to capture all the bugs and mistakes so that we can track them
+
+mongodb+src://temp-user:U8I5A6oh0jJVnVoU@ineuron-ai-projects.7eh1w4s.mongodb.net/?retryWrites=true&w=majority
